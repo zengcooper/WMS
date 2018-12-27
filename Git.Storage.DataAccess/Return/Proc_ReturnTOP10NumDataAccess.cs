@@ -3,7 +3,7 @@
  *
  * Author: 代码工具自动生成
  * Create Date: 2014/06/09 14:54:55
- * Blog: http://www.cnblogs.com/qingyuan/ 
+
  * Copyright: 太数智能科技（上海）有限公司 
  * Description: Git.Framework
  * 

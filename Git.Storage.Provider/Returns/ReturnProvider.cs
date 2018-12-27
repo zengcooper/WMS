@@ -6,8 +6,8 @@
  *
  * Description: Git.Framework
  * http://www.cnblogs.com/qingyuan/
- * 吉特云仓储：http://yun.gitwms.com/
- * 吉特仓储系统:http://www.gitwms.com/
+ * 瑞慈云仓储：http://yun.gitwms.com/
+ * 瑞慈仓储系统:http://www.gitwms.com/
  * 
  * Revision History:
  * Date         Author               Description

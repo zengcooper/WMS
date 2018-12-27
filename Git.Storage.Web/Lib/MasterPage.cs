@@ -312,7 +312,8 @@ namespace Git.Storage.Web.Lib
             string version = Git.Framework.Cache.CacheHelper.Get<string>(Git.Storage.Provider.CacheKey.CACHE_SYS_VERSION);
             ViewBag.DebugVersion = version;
 
-            string sign = Git.Framework.Encrypt.Encrypt.TripleDESDecrypting(ResourceManager.GetSettingEntity("Sign").Value);
+            //string sign = Git.Framework.Encrypt.Encrypt.TripleDESDecrypting(ResourceManager.GetSettingEntity("Sign").Value);
+            string sign = "欢迎使用瑞慈仓库管理系统";
             ViewBag.Sign = sign;
         }
     }

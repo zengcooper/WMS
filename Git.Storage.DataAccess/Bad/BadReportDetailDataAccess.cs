@@ -2,13 +2,13 @@
  * Copyright (C) Git Corporation. All rights reserved.
  *
  * Author: 代码工具自动生成
- * Create Date: 2013-11-29 23:31:51
- * Blog: http://www.cnblogs.com/qingyuan/ 
+ * Create Date: 2018-12-27 23:31:51
+
  * Description: Git.Framework
  * 
  * Revision History:
  * Date         Author               Description
- * 2013-11-29 23:31:51
+ * 2018-12-27 23:31:51
 *********************************************************************************/
 
 using System;

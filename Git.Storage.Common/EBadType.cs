@@ -2,13 +2,13 @@
  * Copyright (C) Git Corporation. All rights reserved.
  *
  * Author: 情缘
- * Create Date: 2013-11-29 23:45:39
+ * Create Date: 2018-12-27 23:45:39
  *
  * Description: Git.Framework
  * http://www.cnblogs.com/qingyuan/
  * Revision History:
  * Date         Author               Description
- * 2013-11-29 23:45:39       情缘
+ * 2018-12-27 23:45:39       情缘
 *********************************************************************************/
 
 using System;

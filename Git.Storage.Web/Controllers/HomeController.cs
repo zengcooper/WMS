@@ -23,7 +23,8 @@ namespace Git.Storage.Web.Controllers
             string url = WebUtil.GetQueryStringValue<string>("returnurl", string.Empty);
             ViewBag.ReferrerUrl = url;
 
-            string sign = Git.Framework.Encrypt.Encrypt.TripleDESDecrypting(ResourceManager.GetSettingEntity("loginsign").Value);
+            //string sign = Git.Framework.Encrypt.Encrypt.TripleDESDecrypting(ResourceManager.GetSettingEntity("loginsign").Value);
+            string sign = "欢迎使用瑞慈仓库管理系统";
             ViewBag.LoginSign = sign;
 
             return View();
