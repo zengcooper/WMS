@@ -1,0 +1,6 @@
+D:\code\WMS\WMS\Git.Storage.NetCoreWeb\obj\Debug\netcoreapp2.1\Git.Storage.NetCoreWeb.csprojAssemblyReference.cache
+D:\code\WMS\WMS\Git.Storage.NetCoreWeb\obj\Debug\netcoreapp2.1\Git.Storage.NetCoreWeb.csproj.CoreCompileInputs.cache
+D:\code\WMS\WMS\Git.Storage.NetCoreWeb\obj\Debug\netcoreapp2.1\Git.Storage.NetCoreWeb.RazorAssemblyInfo.cache
+D:\code\WMS\WMS\Git.Storage.NetCoreWeb\obj\Debug\netcoreapp2.1\Git.Storage.NetCoreWeb.RazorAssemblyInfo.cs
+D:\code\WMS\WMS\Git.Storage.NetCoreWeb\obj\Debug\netcoreapp2.1\Git.Storage.NetCoreWeb.AssemblyInfoInputs.cache
+D:\code\WMS\WMS\Git.Storage.NetCoreWeb\obj\Debug\netcoreapp2.1\Git.Storage.NetCoreWeb.AssemblyInfo.cs

@@ -1,15 +1,15 @@
 ﻿/*******************************************************************************
  * Copyright (C) Git Corporation. All rights reserved.
  *
- * Author: 情缘
+ * Author: Cooper
  * Create Date: 2013-08-19 10:22:44
  *
  * Description: Git.Framework
- * http://www.cnblogs.com/qingyuan/
+ * 
  * 
  * Revision History:
  * Date         Author               Description
- * 2013-08-19 10:22:44       情缘
+ * 2013-08-19 10:22:44       Cooper
 *********************************************************************************/
 
 using Git.Framework.Resource;

@@ -1,0 +1,11 @@
+D:\code\WMS\WMS\Git.Storage.NetCore.Entity\bin\Debug\netcoreapp2.1\Git.Storage.NetCore.Entity.deps.json
+D:\code\WMS\WMS\Git.Storage.NetCore.Entity\bin\Debug\netcoreapp2.1\Git.Storage.NetCore.Entity.dll
+D:\code\WMS\WMS\Git.Storage.NetCore.Entity\bin\Debug\netcoreapp2.1\Git.Storage.NetCore.Entity.pdb
+D:\code\WMS\WMS\Git.Storage.NetCore.Entity\bin\Debug\netcoreapp2.1\Git.Framework.ORM.dll
+D:\code\WMS\WMS\Git.Storage.NetCore.Entity\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.Entity.csproj.CoreCompileInputs.cache
+D:\code\WMS\WMS\Git.Storage.NetCore.Entity\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.Entity.AssemblyInfoInputs.cache
+D:\code\WMS\WMS\Git.Storage.NetCore.Entity\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.Entity.AssemblyInfo.cs
+D:\code\WMS\WMS\Git.Storage.NetCore.Entity\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.Entity.csproj.CopyComplete
+D:\code\WMS\WMS\Git.Storage.NetCore.Entity\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.Entity.dll
+D:\code\WMS\WMS\Git.Storage.NetCore.Entity\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.Entity.pdb
+D:\code\WMS\WMS\Git.Storage.NetCore.Entity\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.Entity.csprojAssemblyReference.cache

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Git.Storage.Core.IDataAccess/1.0.0": {
+        "dependencies": {
+          "Git.Storage.Core.Entity": "1.0.0",
+          "Git.Framework.ORM": "2.0.5414.27196"
+        },
+        "runtime": {
+          "Git.Storage.Core.IDataAccess.dll": {}
+        }
+      },
+      "Git.Storage.Core.Entity/1.0.0": {
+        "runtime": {
+          "Git.Storage.Core.Entity.dll": {}
+        }
+      },
+      "Git.Framework.ORM/2.0.5414.27196": {
+        "runtime": {
+          "Git.Framework.ORM.dll": {
+            "assemblyVersion": "2.0.5414.27196",
+            "fileVersion": "2.0.5414.27196"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Git.Storage.Core.IDataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Git.Storage.Core.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Git.Framework.ORM/2.0.5414.27196": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

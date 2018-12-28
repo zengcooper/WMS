@@ -1,0 +1,13 @@
+D:\code\WMS\WMS\Git.Storage.NetCore.IDataAccess\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.IDataAccess.csprojAssemblyReference.cache
+D:\code\WMS\WMS\Git.Storage.NetCore.IDataAccess\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.IDataAccess.csproj.CoreCompileInputs.cache
+D:\code\WMS\WMS\Git.Storage.NetCore.IDataAccess\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.IDataAccess.AssemblyInfoInputs.cache
+D:\code\WMS\WMS\Git.Storage.NetCore.IDataAccess\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.IDataAccess.AssemblyInfo.cs
+D:\code\WMS\WMS\Git.Storage.NetCore.IDataAccess\bin\Debug\netcoreapp2.1\Git.Storage.NetCore.IDataAccess.deps.json
+D:\code\WMS\WMS\Git.Storage.NetCore.IDataAccess\bin\Debug\netcoreapp2.1\Git.Storage.NetCore.IDataAccess.dll
+D:\code\WMS\WMS\Git.Storage.NetCore.IDataAccess\bin\Debug\netcoreapp2.1\Git.Storage.NetCore.IDataAccess.pdb
+D:\code\WMS\WMS\Git.Storage.NetCore.IDataAccess\bin\Debug\netcoreapp2.1\Git.Framework.ORM.dll
+D:\code\WMS\WMS\Git.Storage.NetCore.IDataAccess\bin\Debug\netcoreapp2.1\Git.Storage.NetCore.Entity.dll
+D:\code\WMS\WMS\Git.Storage.NetCore.IDataAccess\bin\Debug\netcoreapp2.1\Git.Storage.NetCore.Entity.pdb
+D:\code\WMS\WMS\Git.Storage.NetCore.IDataAccess\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.IDataAccess.csproj.CopyComplete
+D:\code\WMS\WMS\Git.Storage.NetCore.IDataAccess\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.IDataAccess.dll
+D:\code\WMS\WMS\Git.Storage.NetCore.IDataAccess\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.IDataAccess.pdb

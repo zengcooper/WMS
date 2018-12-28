@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Git.Storage.NetCore.Common\Git.Storage.Core.Common.csproj" />
+    <ProjectReference Include="..\Git.Storage.NetCore.DataAccess\Git.Storage.Core.DataAccess.csproj" />
+    <ProjectReference Include="..\Git.Storage.NetCore.Entity\Git.Storage.Core.Entity.csproj" />
+    <ProjectReference Include="..\Git.Storage.NetCore.IDataAccess\Git.Storage.Core.IDataAccess.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Git.Framework.Cache">
+      <HintPath>..\Lib\Git.Framework.Cache.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.DataTypes">
+      <HintPath>..\Lib\Git.Framework.DataTypes.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.Email">
+      <HintPath>..\Lib\Git.Framework.Email.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.Encrypt">
+      <HintPath>..\Lib\Git.Framework.Encrypt.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.Events">
+      <HintPath>..\Lib\Git.Framework.Events.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.Io">
+      <HintPath>..\Lib\Git.Framework.Io.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.Json">
+      <HintPath>..\Lib\Git.Framework.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.Log">
+      <HintPath>..\Lib\Git.Framework.Log.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.MsSql">
+      <HintPath>..\Lib\Git.Framework.MsSql.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.ORM">
+      <HintPath>..\Lib\Git.Framework.ORM.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.Resource">
+      <HintPath>..\Lib\Git.Framework.Resource.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

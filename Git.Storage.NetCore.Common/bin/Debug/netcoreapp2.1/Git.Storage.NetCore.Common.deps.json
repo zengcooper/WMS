@@ -1,0 +1,152 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "d4202fb8d7f324f4f1545bb20f5d231eb987da22"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Git.Storage.NetCore.Common/1.0.0": {
+        "dependencies": {
+          "System.Data.DataSetExtensions": "4.5.0",
+          "Aspose.Cells": "4.4.3.1",
+          "Git.Framework.DataTypes": "2.0.6007.32475",
+          "Git.Framework.Json": "1.0.0.0",
+          "NPOI": "2.0.6.0",
+          "NPOI.OOXML": "2.0.6.0",
+          "NPOI.OpenXml4Net": "2.0.6.0",
+          "NPOI.OpenXmlFormats": "2.0.6.0"
+        },
+        "runtime": {
+          "Git.Storage.NetCore.Common.dll": {}
+        }
+      },
+      "System.Data.DataSetExtensions/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Data.DataSetExtensions.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "Aspose.Cells/4.4.3.1": {
+        "runtime": {
+          "Aspose.Cells.dll": {
+            "assemblyVersion": "4.4.3.1",
+            "fileVersion": "4.4.3.1"
+          }
+        }
+      },
+      "Git.Framework.DataTypes/2.0.6007.32475": {
+        "runtime": {
+          "Git.Framework.DataTypes.dll": {
+            "assemblyVersion": "2.0.6007.32475",
+            "fileVersion": "2.0.6007.32475"
+          }
+        }
+      },
+      "Git.Framework.Json/1.0.0.0": {
+        "runtime": {
+          "Git.Framework.Json.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NPOI/2.0.6.0": {
+        "runtime": {
+          "NPOI.dll": {
+            "assemblyVersion": "2.0.6.0",
+            "fileVersion": "2.0.6.0"
+          }
+        }
+      },
+      "NPOI.OOXML/2.0.6.0": {
+        "runtime": {
+          "NPOI.OOXML.dll": {
+            "assemblyVersion": "2.0.6.0",
+            "fileVersion": "2.0.6.0"
+          }
+        }
+      },
+      "NPOI.OpenXml4Net/2.0.6.0": {
+        "runtime": {
+          "NPOI.OpenXml4Net.dll": {
+            "assemblyVersion": "2.0.6.0",
+            "fileVersion": "2.0.6.0"
+          }
+        }
+      },
+      "NPOI.OpenXmlFormats/2.0.6.0": {
+        "runtime": {
+          "NPOI.OpenXmlFormats.dll": {
+            "assemblyVersion": "2.0.6.0",
+            "fileVersion": "2.0.6.0"
+          }
+        }
+      },
+      "ICSharpCode.SharpZipLib/0.86.0.518": {
+        "runtime": {
+          "ICSharpCode.SharpZipLib.dll": {
+            "assemblyVersion": "0.86.0.518",
+            "fileVersion": "0.86.0.518"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Git.Storage.NetCore.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Data.DataSetExtensions/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xKUL8eeGuJ0uHaRpDKFibVxXjWrquWxQuASlRnhvITQ8cGZPZrO8T8lh8XKfOnirrDyQz81TCwALPXzflSW3JA==",
+      "path": "system.data.datasetextensions/4.5.0",
+      "hashPath": "system.data.datasetextensions.4.5.0.nupkg.sha512"
+    },
+    "Aspose.Cells/4.4.3.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Git.Framework.DataTypes/2.0.6007.32475": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Git.Framework.Json/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NPOI/2.0.6.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NPOI.OOXML/2.0.6.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NPOI.OpenXml4Net/2.0.6.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NPOI.OpenXmlFormats/2.0.6.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ICSharpCode.SharpZipLib/0.86.0.518": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

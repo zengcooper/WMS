@@ -1,0 +1,17 @@
+D:\code\WMS\WMS\Git.Storage.NetCore.Common\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.Common.csproj.CoreCompileInputs.cache
+D:\code\WMS\WMS\Git.Storage.NetCore.Common\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.Common.AssemblyInfoInputs.cache
+D:\code\WMS\WMS\Git.Storage.NetCore.Common\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.Common.AssemblyInfo.cs
+D:\code\WMS\WMS\Git.Storage.NetCore.Common\bin\Debug\netcoreapp2.1\Git.Storage.NetCore.Common.deps.json
+D:\code\WMS\WMS\Git.Storage.NetCore.Common\bin\Debug\netcoreapp2.1\Git.Storage.NetCore.Common.dll
+D:\code\WMS\WMS\Git.Storage.NetCore.Common\bin\Debug\netcoreapp2.1\Aspose.Cells.dll
+D:\code\WMS\WMS\Git.Storage.NetCore.Common\bin\Debug\netcoreapp2.1\Git.Framework.DataTypes.dll
+D:\code\WMS\WMS\Git.Storage.NetCore.Common\bin\Debug\netcoreapp2.1\Git.Framework.Json.dll
+D:\code\WMS\WMS\Git.Storage.NetCore.Common\bin\Debug\netcoreapp2.1\NPOI.dll
+D:\code\WMS\WMS\Git.Storage.NetCore.Common\bin\Debug\netcoreapp2.1\NPOI.OOXML.dll
+D:\code\WMS\WMS\Git.Storage.NetCore.Common\bin\Debug\netcoreapp2.1\NPOI.OpenXml4Net.dll
+D:\code\WMS\WMS\Git.Storage.NetCore.Common\bin\Debug\netcoreapp2.1\NPOI.OpenXmlFormats.dll
+D:\code\WMS\WMS\Git.Storage.NetCore.Common\bin\Debug\netcoreapp2.1\ICSharpCode.SharpZipLib.dll
+D:\code\WMS\WMS\Git.Storage.NetCore.Common\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.Common.csproj.CopyComplete
+D:\code\WMS\WMS\Git.Storage.NetCore.Common\bin\Debug\netcoreapp2.1\Git.Storage.NetCore.Common.pdb
+D:\code\WMS\WMS\Git.Storage.NetCore.Common\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.Common.dll
+D:\code\WMS\WMS\Git.Storage.NetCore.Common\obj\Debug\netcoreapp2.1\Git.Storage.NetCore.Common.pdb

@@ -1,0 +1,53 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Git.Storage.Core.Provider\Git.Storage.Core.Provider.csproj" />
+    <ProjectReference Include="..\Git.Storage.NetCore.Common\Git.Storage.Core.Common.csproj" />
+    <ProjectReference Include="..\Git.Storage.NetCore.DataAccess\Git.Storage.Core.DataAccess.csproj" />
+    <ProjectReference Include="..\Git.Storage.NetCore.Entity\Git.Storage.Core.Entity.csproj" />
+    <ProjectReference Include="..\Git.Storage.NetCore.IDataAccess\Git.Storage.Core.IDataAccess.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Git.Framework.Cache">
+      <HintPath>..\..\..\WMS\Lib\Git.Framework.Cache.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.DataTypes">
+      <HintPath>..\..\..\WMS\Lib\Git.Framework.DataTypes.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.Email">
+      <HintPath>..\..\..\WMS\Lib\Git.Framework.Email.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.Encrypt">
+      <HintPath>..\..\..\WMS\Lib\Git.Framework.Encrypt.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.Events">
+      <HintPath>..\..\..\WMS\Lib\Git.Framework.Events.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.Io">
+      <HintPath>..\..\..\WMS\Lib\Git.Framework.Io.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.Json">
+      <HintPath>..\..\..\WMS\Lib\Git.Framework.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.Log">
+      <HintPath>..\..\..\WMS\Lib\Git.Framework.Log.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.ORM">
+      <HintPath>..\..\..\WMS\Lib\Git.Framework.ORM.dll</HintPath>
+    </Reference>
+    <Reference Include="Git.Framework.Resource">
+      <HintPath>..\..\..\WMS\Lib\Git.Framework.Resource.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
