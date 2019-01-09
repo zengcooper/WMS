@@ -4345,7 +4345,7 @@
       },
       "Git.Storage.Core.Common/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
+        "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "System.Data.DataSetExtensions": "4.5.0"
         },
@@ -4358,7 +4358,7 @@
       },
       "Git.Storage.Core.DataAccess/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
+        "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Git.Storage.Core.Common": "1.0.0",
           "Git.Storage.Core.Entity": "1.0.0",
@@ -4373,7 +4373,7 @@
       },
       "Git.Storage.Core.Entity/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
           "bin/placeholder/Git.Storage.Core.Entity.dll": {}
         },
@@ -4383,7 +4383,7 @@
       },
       "Git.Storage.Core.IDataAccess/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
+        "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Git.Storage.Core.Entity": "1.0.0"
         },
@@ -4396,7 +4396,7 @@
       },
       "Git.Storage.Core.Provider/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
+        "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Git.Storage.Core.Common": "1.0.0",
           "Git.Storage.Core.DataAccess": "1.0.0",
@@ -7730,11 +7730,12 @@
       ]
     },
     "System.Collections.NonGeneric/4.3.0": {
-      "sha512": "prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
+      "sha512": "/D3jtX0+u5+6rS3RGvTMyICPpIuzBgqtUYLjK1aXLua0nWH4JpM1H/tRk1Uxs6Fo0fe22jyJaTpoXPSu0il8Ug==",
       "type": "package",
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -8025,11 +8026,12 @@
       ]
     },
     "System.Diagnostics.Contracts/4.3.0": {
-      "sha512": "eelRRbnm+OloiQvp9CXS0ixjNQldjjkHO4iIkR5XH2VIP8sUB/SIpa1TdUW6/+HDcQ+MlhP3pNa1u5SbzYuWGA==",
+      "sha512": "clL6acqvIbbx3JYunlkrWV5sP9qGd0sLl612eXrBVVwakTTlMNtvZB5RiC2rU2uYxSnIt2ssUQgA2adrYSqYhA==",
       "type": "package",
       "path": "system.diagnostics.contracts/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -8176,11 +8178,12 @@
       ]
     },
     "System.Diagnostics.FileVersionInfo/4.3.0": {
-      "sha512": "omCF64wzQ3Q2CeIqkD6lmmxeMZtGHUmzgFMPjfVaOsyqpR66p/JaZzManMw1s33osoAb5gqpncsjie67+yUPHQ==",
+      "sha512": "OEshwk5wkdxtGkFZYSErv6dnUuz0z8C01htylGwOwFnCVFRcrvleBtplMDCk9nMyWP41cbMZGEIBfy7HV1Loug==",
       "type": "package",
       "path": "system.diagnostics.fileversioninfo/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -9429,11 +9432,12 @@
       ]
     },
     "System.Private.DataContractSerialization/4.3.0": {
-      "sha512": "yDaJ2x3mMmjdZEDB4IbezSnCsnjQ4BxinKhRAaP6kEgL6Bb6jANWphs5SzyD8imqeC/3FxgsuXT6ykkiH1uUmA==",
+      "sha512": "wEjvYddMMRV04qSvr/3+v9YsjnYKjxR6riG749gI5DdqXKvJtAKJSfXDxefu7TxlKvGiufQd6mVsI/NMmBIg8A==",
       "type": "package",
       "path": "system.private.datacontractserialization/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.3/System.Private.DataContractSerialization.dll",
@@ -9980,7 +9984,7 @@
       ]
     },
     "System.Runtime.CompilerServices.Unsafe/4.5.1": {
-      "sha512": "x/3d5xb+mc9e4I2GOOT+HPRWMZLbYjNN/kYKsb0fyUKcWizn/t1CIrGRLIBhv7H0ptYEt+WTTztdPmwSUMyKig==",
+      "sha512": "qUJMNWhbm9oZ3XaMFiEMiYmRPszbnXIkRIi7+4b2Md2xZ6JUOepf0/kY3S85qistRohl9OdMe4PsO+RdG2kTIQ==",
       "type": "package",
       "path": "system.runtime.compilerservices.unsafe/4.5.1",
       "files": [
@@ -10376,11 +10380,12 @@
       ]
     },
     "System.Runtime.Serialization.Xml/4.3.0": {
-      "sha512": "nUQx/5OVgrqEba3+j7OdiofvVq9koWZAC7Z3xGI8IIViZqApWnZ5+lLcwYgTlbkobrl/Rat+Jb8GeD4WQESD2A==",
+      "sha512": "v5BPUVQNkxkHh80Lhe8YM3iVSN0zYP5Xm9Zw47aoSu6+SyRGbGbEC6i/Vq3gUufIjPSgi16fs1wBLEZNU9zXyQ==",
       "type": "package",
       "path": "system.runtime.serialization.xml/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -10447,7 +10452,7 @@
       ]
     },
     "System.Security.AccessControl/4.5.0": {
-      "sha512": "aVjTe36YkO8FzfNhMLoPEzv3gF9rphoW9ngFhG/MH4zzEPLx07sNrgCLwMP4Wx2leI6qarMrGv21OwQXYUKLmw==",
+      "sha512": "6RQtcT+TyDgLUFsAnmmdfRRGdLYKxSZGkSPOd052tvYFxOTMaQb6ANlwhGqZtNO52PosaCoXu7uatFneujAxmA==",
       "type": "package",
       "path": "system.security.accesscontrol/4.5.0",
       "files": [
@@ -10832,7 +10837,7 @@
       ]
     },
     "System.Security.Cryptography.Xml/4.5.0": {
-      "sha512": "UvxfrEg7YG7U6BQO8WdQ4Nu1LFt2lqYQnoZefaK/2RDvjYdJ+norsVe4dwOqo14XiipgYY5xNUo6VhQXNbl2vg==",
+      "sha512": "X+/taLXTKYziKvWE4ZEyhpY0QQ17fm9eW70cvMCE6LAsWYqdv708i0HJeSVy7/5R5547GR/CEGOjUkYq6bJfPg==",
       "type": "package",
       "path": "system.security.cryptography.xml/4.5.0",
       "files": [
@@ -10853,7 +10858,7 @@
       ]
     },
     "System.Security.Permissions/4.5.0": {
-      "sha512": "vDQ7q30Soe0a1cPhvxn+7IFmMeTG5IP+hTQrnKQDjTNpD2epqwbZSzMM2Git5TXBr4Kwwhc/0SEtJY0qPoiegA==",
+      "sha512": "O+e9qamSTJ4YOJCpnLgsf9FTGfsxJv2On1OdYkhmd/XA5AYRvUatkz7Rp3dS9XR7rhVuklnjST1dRoMK7N4cGw==",
       "type": "package",
       "path": "system.security.permissions/4.5.0",
       "files": [
@@ -11456,11 +11461,12 @@
       ]
     },
     "System.Threading.Tasks.Parallel/4.3.0": {
-      "sha512": "cbjBNZHf/vQCfcdhzx7knsiygoCKgxL8mZOeocXZn5gWhCdzHIq6bYNKWX0LAJCWYP7bds4yBK8p06YkP0oa0g==",
+      "sha512": "Wn3GV5YIWjxvv9muD9FSZxH4PLx98Y4D1Z5mpYTowK1RLPtFvusnVKnT0OzmzEpYCMtVNgqfk3kPc9xRGsWrLA==",
       "type": "package",
       "path": "system.threading.tasks.parallel/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -11707,11 +11713,12 @@
       ]
     },
     "System.Xml.XmlDocument/4.3.0": {
-      "sha512": "lJ8AxvkX7GQxpC6GFCeBj8ThYVyQczx2+f/cWHJU8tjS7YfI6Cv6bon70jVEgs2CiFbmmM8b9j1oZVx0dSI2Ww==",
+      "sha512": "xsnq6w3/S+NeYkUtxoCEDAn2Z+AkgvGLvJnslrTRte4jEU+fkR3DVG+s0sBmQYQ4c3r8949PaGg8AnRb9bBc2w==",
       "type": "package",
       "path": "system.xml.xmldocument/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -11745,11 +11752,12 @@
       ]
     },
     "System.Xml.XmlSerializer/4.3.0": {
-      "sha512": "MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
+      "sha512": "kwo6Kf+0jjEcmB+S2BI5SL0xHHRIBd0Cjf11BGliuZ3Va9V1hDbKZmq0mb7HO8QPlYYrq8eNToOzipfw6ARKEw==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -11815,11 +11823,12 @@
       ]
     },
     "System.Xml.XPath/4.3.0": {
-      "sha512": "v1JQ5SETnQusqmS3RwStF7vwQ3L02imIzl++sewmt23VGygix04pEH+FCj1yWb+z4GDzKiljr1W7Wfvrx0YwgA==",
+      "sha512": "8Eo7vuasWRqXfiBRCIKz20Rq1h6n+NMp6nW2RmyUwF4VDekg8xbRZu8S3N21P5XGAhv+kaqUwI3xydEkcw+D5w==",
       "type": "package",
       "path": "system.xml.xpath/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -11929,23 +11938,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Users\\QXX7791\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\WMS\\WMS.Core\\WMS\\Git.Storage.NetCoreWeb\\Git.Storage.Core.Web.csproj",
+      "projectUniqueName": "C:\\Code\\WMS\\Git.Storage.NetCoreWeb\\Git.Storage.Core.Web.csproj",
       "projectName": "Git.Storage.Core.Web",
-      "projectPath": "D:\\code\\WMS\\WMS.Core\\WMS\\Git.Storage.NetCoreWeb\\Git.Storage.Core.Web.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\WMS\\WMS.Core\\WMS\\Git.Storage.NetCoreWeb\\obj\\",
+      "projectPath": "C:\\Code\\WMS\\Git.Storage.NetCoreWeb\\Git.Storage.Core.Web.csproj",
+      "packagesPath": "C:\\Users\\QXX7791\\.nuget\\packages\\",
+      "outputPath": "C:\\Code\\WMS\\Git.Storage.NetCoreWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\QXX7791\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11958,20 +11967,20 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\code\\WMS\\WMS.Core\\WMS\\Git.Storage.Core.Provider\\Git.Storage.Core.Provider.csproj": {
-              "projectPath": "D:\\code\\WMS\\WMS.Core\\WMS\\Git.Storage.Core.Provider\\Git.Storage.Core.Provider.csproj"
+            "C:\\Code\\WMS\\Git.Storage.Core.Provider\\Git.Storage.Core.Provider.csproj": {
+              "projectPath": "C:\\Code\\WMS\\Git.Storage.Core.Provider\\Git.Storage.Core.Provider.csproj"
             },
-            "D:\\code\\WMS\\WMS.Core\\WMS\\Git.Storage.NetCore.Common\\Git.Storage.Core.Common.csproj": {
-              "projectPath": "D:\\code\\WMS\\WMS.Core\\WMS\\Git.Storage.NetCore.Common\\Git.Storage.Core.Common.csproj"
+            "C:\\Code\\WMS\\Git.Storage.NetCore.Common\\Git.Storage.Core.Common.csproj": {
+              "projectPath": "C:\\Code\\WMS\\Git.Storage.NetCore.Common\\Git.Storage.Core.Common.csproj"
             },
-            "D:\\code\\WMS\\WMS.Core\\WMS\\Git.Storage.NetCore.DataAccess\\Git.Storage.Core.DataAccess.csproj": {
-              "projectPath": "D:\\code\\WMS\\WMS.Core\\WMS\\Git.Storage.NetCore.DataAccess\\Git.Storage.Core.DataAccess.csproj"
+            "C:\\Code\\WMS\\Git.Storage.NetCore.DataAccess\\Git.Storage.Core.DataAccess.csproj": {
+              "projectPath": "C:\\Code\\WMS\\Git.Storage.NetCore.DataAccess\\Git.Storage.Core.DataAccess.csproj"
             },
-            "D:\\code\\WMS\\WMS.Core\\WMS\\Git.Storage.NetCore.Entity\\Git.Storage.Core.Entity.csproj": {
-              "projectPath": "D:\\code\\WMS\\WMS.Core\\WMS\\Git.Storage.NetCore.Entity\\Git.Storage.Core.Entity.csproj"
+            "C:\\Code\\WMS\\Git.Storage.NetCore.Entity\\Git.Storage.Core.Entity.csproj": {
+              "projectPath": "C:\\Code\\WMS\\Git.Storage.NetCore.Entity\\Git.Storage.Core.Entity.csproj"
             },
-            "D:\\code\\WMS\\WMS.Core\\WMS\\Git.Storage.NetCore.IDataAccess\\Git.Storage.Core.IDataAccess.csproj": {
-              "projectPath": "D:\\code\\WMS\\WMS.Core\\WMS\\Git.Storage.NetCore.IDataAccess\\Git.Storage.Core.IDataAccess.csproj"
+            "C:\\Code\\WMS\\Git.Storage.NetCore.IDataAccess\\Git.Storage.Core.IDataAccess.csproj": {
+              "projectPath": "C:\\Code\\WMS\\Git.Storage.NetCore.IDataAccess\\Git.Storage.Core.IDataAccess.csproj"
             }
           }
         }
@@ -11997,6 +12006,7 @@
             "version": "[2.1.2, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
